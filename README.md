@@ -1,5 +1,7 @@
 # Prisma 4.7.1 error reproduction
 
+_for: https://github.com/prisma/prisma/issues/16600_
+
 This is a pared-down version of our current schema. This error was introduced in `prisma@4.7.0` and still exists in `prisma@4.7.1` when the new `clientExtensions` feature is enabled.
 
 Error message:
