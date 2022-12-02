@@ -1,0 +1,18 @@
+{
+	"name": "prisma-error",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"generate": "prisma generate"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@prisma/client": "^4.7.1",
+		"@types/node": "16",
+		"prisma": "^4.7.1",
+		"typescript": "^4.9.3"
+	}
+}
